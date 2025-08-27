@@ -24,6 +24,13 @@ The dataset includes:
 
 ## 📈 Dashboard Preview
 
+### Full Dashboard
+This view shows the complete sales dashboard with KPIs, slicers, and charts for interactive analysis.  
+![Full Dashboard](Full%20Dashboard.png)
+
+### Key Charts
+Breakdown of regional sales totals, product averages, and target achievement.  
+![Charts](Charts.png)
 
 ## 📂 Files in this Repository
 - `Sales-Dashboard-Excel.xlsx` → Source Excel dashboard  
@@ -39,4 +46,5 @@ The dataset includes:
 ## 🔗 Next Steps
 This project is part of my **Data Analyst Portfolio**.  
 Next, I’ll be building similar dashboards in **SQL, Python (Pandas), Tableau, and Power BI**.  
+
 Stay tuned for updates!
